@@ -1,0 +1,3 @@
+uint32 host_error
+uint32 chassis_error
+uint16 route_error

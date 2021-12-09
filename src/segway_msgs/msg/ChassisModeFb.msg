@@ -1,0 +1,1 @@
+uint16 chassis_mode #0:lock; 1:ctrl; 2:push; 3:emergency; 4:error.

@@ -1,0 +1,5 @@
+int16  iap_board    #1:iap chassis board;  2:iap route board
+---
+int16  iap_result  #3: iap_state_complete; 4: iap_state_fail;
+---
+int16  iap_percent

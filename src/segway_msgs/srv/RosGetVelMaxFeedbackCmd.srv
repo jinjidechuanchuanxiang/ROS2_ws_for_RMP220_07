@@ -1,0 +1,5 @@
+bool   ros_get_vel_max_fb_cmd
+---
+float64  forward_max_vel_fb  
+float64  backward_max_vel_fb  
+float64  angular_max_vel_fb
